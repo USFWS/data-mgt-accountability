@@ -1,11 +1,10 @@
 # Holding ourselves accountable for data management: actions in Alaska 
 
-[Link to presentation slides]()
-
 - [McCrea Cobb](mailto:mccrea_cobb@fws.gov)* (Refuge Inventory and Monitoring Program, Alaska Region)
 - [Amy Pocewicz](mailto:amy_pocewicz@fws.gov) (Science Applications, Alaska Region)
 - [Erik Osnas](mailto:erik_osnas@fws.gov) (Migratory Birds, Alaska Region)
-- [Ryan Wilson](mailto:ryan_r_wilson@fws.gov) (Fisheries and Ecological Services, Alaska Region)  
+- [Ryan Wilson](mailto:ryan_r_wilson@fws.gov) (Fisheries and Ecological Services, Alaska Region) 
+
 *presenter
 
 ## Abstract 
@@ -15,4 +14,4 @@ Data management poses an adaptive challenge. Even where we have technical system
 January 26, 2021
 
 ## Resources
-
+[Link to slides]()

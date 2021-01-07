@@ -1,0 +1,68 @@
+==========================================================================
+Alaska Region Basic Metadata Template
+
+Dublin Core Metadata
+	(http://www.niso.org/apps/group_public/download.php/10256/Z39-85-2012_dublin_core.pdf)
+Project Open Data
+	(https://project-open-data.cio.gov/v1.1/schema/)
+==========================================================================
+
+title:
+	R Webinar
+subject: 
+        training, R, webinar, NCTC, data management
+
+description:
+	A lightning tal on data management accountability. Delivered during the January 2021 
+	FWS virtual data management workshop.
+
+date_created:
+	2021-01-07
+
+date_edited:
+	2021-01-07
+
+creator: 
+	McCrea Cobb <mccrea_cobb@fws.gov>
+
+contact: 
+	McCrea Cobb <mccrea_cobb@fws.gov>
+
+contributor: 
+	McCrea Cobb <mccrea_cobb@fws.gov>
+
+coverage: 
+	US
+	
+publisher:
+	U.S. Fish and Wildlife Service, Inventory and Monitoring Branch
+
+distribution:
+
+type: 
+	Webinar
+
+format: 
+	R, RMarkdown
+
+language: 
+	en-US
+
+rights: 
+	Public Domain
+
+==========================================================================
+Directory Contents
+==========================================================================
+
+docs (directory)
+	The html output for the R Markdown files. All files here are used to host a 
+	GitHub website. The "index" html file opens the presentation.  
+
+metadata (directory)
+	mdEditor JSON file for the project, associated products, project
+	contacts, and data dictionaries. Created and edited using mdEditor.org.
+
+resources (directory)
+	Existing documents and data used during the course of the project but not
+	created by the project.

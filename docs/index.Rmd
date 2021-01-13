@@ -73,17 +73,169 @@ Fisheries and Ecological Services
 Hello and welcome.
 
 
+---
+class: inverse, center, middle, hide-logo
+# Outline
+
+.pull.left[
+#### Data management = adaptive challenge 
+
+<span style="color:gray">All (nearly) Service staff have a role in data management</span style>
+
+<span style="color:gray">Success requires implementing accountability across roles and organizational levels</span style>
+
+<span style="color:gray">Recommended actions</span style>
+]
+
+???
+Ok, what will we be covering today?
+
 
 ---
 class: inverse, center, middle, hide-logo
 # Outline
 
+.pull.left[
+<span style="color:gray">Data management = adaptive challenge</span style> 
+
+#### All (nearly) Service staff have a role in data management
+
+<span style="color:gray">Success requires implementing accountability across roles and organizational levels</span style>
+
+<span style="color:gray">Recommended actions</span style>
+]
 
 ???
-Ok, what will we be covering today?
+
 
 ---
-# Slide title
+class: inverse, center, middle, hide-logo
+# Outline
 
-some text
+.pull.left[
+<span style="color:gray">Data management = adaptive challenge</span style> 
 
+<span style="color:gray">All (nearly) Service staff have a role in data management</span style>
+
+#### Success requires implementing accountability across roles and organizational levels
+
+<span style="color:gray">Recommended actions</span style>
+]
+
+???
+
+
+---
+class: inverse, center, middle, hide-logo
+# Outline
+
+.pull.left[
+<span style="color:gray">Data management = adaptive challenge</span style> 
+
+<span style="color:gray">All (nearly) Service staff have a role in data management</span style>
+
+<span style="color:gray">Success requires implementing accountability across roles and organizational levels</span style>
+
+#### Recommended actions
+]
+
+???
+
+
+---
+class: inverse, center, middle, hide-logo
+# Outline
+
+.pull.left[
+#### Data management = adaptive challenge 
+
+<span style="color:gray">All (nearly) Service staff have a role in data management</span style>
+
+<span style="color:gray">Success requires implementing accountability across roles and organizational levels</span style>
+
+<span style="color:gray">Recommended actions</span style>
+]
+
+???
+
+
+---
+# The Adaptive Challenge
+
+.center[![:scale 45%](images/technology.jpg)]
+
+???
+Some notes
+
+
+---
+# The Importance of Accountability
+
+
+
+???
+Some notes
+
+
+---
+# Adopt Workflows
+
+.pull-left[### 1. Incorporate data management into project and funding workflows
+]
+
+.pull-right[
+![]()
+]
+
+???
+Some notes
+
+
+---
+# Measure success
+
+.pull-left[### 2. Develop and use tools to measure data management progress
+]
+
+.pull-right[
+![]()
+]
+
+???
+Some notes
+
+
+---
+# Leadership
+
+.pull-left[### 3. Enlisting regional leaders to demonstrate that data management is a high priority
+]
+
+.pull-right[
+![]()
+]
+
+???
+Some notes
+
+
+---
+# Communication
+
+.pull-left[### 4. Effectively communicate data management expectations to staff
+]
+
+.pull-right[
+![]()
+]
+
+???
+Some notes
+
+
+---
+# Take home message
+
+
+???
+Some notes

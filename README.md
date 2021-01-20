@@ -14,4 +14,4 @@ Data management poses an adaptive challenge. Even where we have technical system
 January 26, 2021
 
 ## Resources
-[Link to slides](https://mccrea-cobb.github.io/data-mgt-accountability/)
+[Link to slides](https://usfws.github.io/data-mgt-accountability/)

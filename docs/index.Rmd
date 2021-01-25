@@ -314,20 +314,21 @@ Asking staff to meet a standard requires a measure of whether that standard has 
 
 
 ---
+class:inverse
 # Summary
 
 .large[
-1. Data management is an **adaptive challenge**.
+1. Data management is an **<span style="color:red">adaptive challenge</span>**.
 
-2. **Everybody is accountable** for data management.
+2. **<span style="color:red">Everybody is accountable</span>** for data management.
 
-3. **Leadership engagement is critical** for instituting accountability.
+3. **<span style="color:red">Leadership engagement is critical</span>** for instituting accountability.
 
-4. Effective and regular **communication at all levels** is important.
+4. Effective and regular **<span style="color:red">communication at all levels</span>** is important.
 
-5. **Understand the current state** of your data management. 
+5. **<span style="color:red">Understand the current state</span>** of your data management. 
 
-6. Consider **how you will assess performance and success** of your strategies.
+6. Consider **<span style="color:red">how you will assess performance and success</span>** of your strategies.
 ]
 
 ???

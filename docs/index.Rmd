@@ -64,31 +64,43 @@ Science Applications
 Fisheries and Ecological Services
 ]
 
-<br>
-<br>
-`r icon::fontawesome("github")` usfws.github.io/data-mgt-accountability
+<br><br><br>
+
+`r icon::fontawesome("github")` usfws.github.io/data-mgt-accountability  
+ServCat Record #129593
 
 
 ???
-Hello and welcome. I'm McCrea Cobb, a biometrician with the refuge's Inventory and Monitoring Program, based in Anchorage, Alaska. My coauthors on this presentation represent other programs in Alaska - Erik Osnas with Migratory Birds, Amy Pocewicz with Science Applications, and Ryan Wilson with Fisheries and Ecological Services. We are all members of the Alaska Data Stewardship Team (DST), a cross-programmatic group of data management advocates working to improve data management in Alaska. 
+
 
 
 ---
 class: center, middle
-# How can we improve data management?
+# How do we improve data management?
 
 ???
-During one of our first meetings for the DST, we quickly agreed that our goal was to improve data management. The hard question though was "How?".
+My coauthors and I are members of the Alaska Data Stewardship Team, which was founded a few years ago to focus on regional data management issues. During one of our first meetings for the DST, we quickly agreed that our goal was to improve data management. That was easy. The hard question though was "How?".
 
-We following the steps of many new groups- identify the fundamental problem that we face and contributing factors to that problem. We all agreed that we as a region are not managing our data to following best practices. But why? Why aren't we meeting that vision for success? What factors are contributing to our apparent lack of success?
+We following the steps of many new groups- identify the fundamental problem that we face and contributing factors to that problem. We all agreed that we as a region are not managing our data  following best practices. But why? Why aren't we meeting that vision for success? What factors were contributing to our apparent lack of success?
 
-Being a group of technical-minded people, discussions initially focused on capacity issues. Maybe we don't have the systems in place to manage our data or create machine-readable metadata. Maybe staff aren't familiar with these systems and need training. Many we need more specialized technical staff (data managers) to led us to success. 
-
-While these factors are arguably important contributors, there was a fundamental issue that we kept coming back to the human dimension side of the problem: people simply aren't doing it because they don't see value, or they see value but it is a lower priority than other work at hand.
 
 
 ---
 
+.center[![:scale 60%](images/technology.jpg)]
+
+???
+Being a group of technically-minded people, some of our initial discussions focused on capacity issues that are within our wheelhouse. Maybe we don't have the systems in place to manage our data or create machine-readable metadata. Maybe staff aren't familiar with these systems and need training. Many we need more specialized technical staff (data managers) to led us to success. 
+
+While these factors are arguably important contributors, we kept coming back to the human dimension side of the problem: people simply aren't doing it because they don't see value, or they see value but it is a lower priority than other work at hand.
+
+A manager that was a part of these initial discussion then pointed out that we are not dealing with a technical problem. What we were facing was an adaptive challenge.
+
+So what's the difference and why is this important to data management?
+
+
+
+---
 .pull-left[
 ## Technical problems
 
@@ -125,27 +137,24 @@ Adopted from R. A. Heifetz and D. L.Laurie. 2001. The Work of Leadership. Harvar
 ]
 
 ???
+A paper in the Harvard Business Review outlined the difference. Most notably, unlike technical problems, adaptive challenges are difficult to even identify and solving them requires a change in values, roles, and work approaches. While technical problems can be quickly solved by experts or authority external to the problem, solving adaptive challenges requires the people that are facing the challenge to do that work to solve it. People are generally resistent to even acknowledging adaptive challenges and the solutions are complex and require time and new discoveries.  
 
-In short, we were not dealing with solely technical problem. Data management is an adaptive challenge 
+So how does this apply to data management?
 
-
----
-
-.center[![:scale 60%](images/technology.jpg)]
-
-???
 
 
 ---
-class: center, middle, inverse
-# Technical solutions alone will not solve our data management challenges
+background-image: url("images/technical_difficulties.jpg")
+background-size: cover
 
 ???
+Well, in short, the technical difficulties that we face with data management can't be solved by a technical experts alone.
+
 
 
 ---
 .pull-left[
-## Everybody plays a role in data management
+## Everybody* plays a role in data management
   
 <br>
 .large[It's not just a "biologist problem"]
@@ -153,27 +162,49 @@ class: center, middle, inverse
 <br>
 
 .large[Success requires implementing accountability across roles and organizational levels]
+
+<br><br><br>
+
+.smaller[*Ok, maybe there are probably some exceptions.]
 ]
 
 .pull-right[
 ![:scale 90%](images/teamwork.jpg)
 ]
-<br><br><br><br><br><br><br><br>
-.smaller[*Ok, maybe there are rare exceptions]
+
 ???
 
-- Poor data management is not just a "biologist problem"
+Instead, everybody will have to play a role in solving our adaptive challenge.
+
+- Solving poor data management is not just a "biologist problem". FWS employees across all programs and grade-levels have roles
 - Success requires implementing accountability across roles and organizational levels
-- Ok, many of you may be saying "that's great. We know that. But how"?
+
+-"Accountability breeds response-ability" (Stephen R. Covey)
+
+
+
+---
+background-image: url("images/not_my_department.jpg")
+background-size: contain
+
+???
+Ok, many of you may be saying "That's great. We know that. I'm not a senior leader or even a supervisor, so how can I improve accountability!".
+
+Nationally, we are starting to lay the groundwork for accountability by explicitly defining data management roles and responsibilities in the new data management policy. 
+
+There is increasing talk of adding a data management element to performance appraisal plans. But immediate question then is "How does a manager know if their employees are doing what they are accountable for?"
+
 
 
 ---
 class: middle, center, inverse
 # Lessons from Alaska: 
-## 5 actions you can take now
+## Five actions to increase accountability
 
 ???
-Some notes
+We don't have all the answers, but I'll share some of the approaches from Alaska to consider that seem to be moving us in the right direction.
+
+
 
 ---
 # 1. Start with yourself
@@ -193,7 +224,7 @@ Apply these to your work.
 ]
 
 ???
-The first step to any change, and arguably the easiest, is to change yourself. For data management, that would mean becoming familiar with laws and policies related to data management. Participate on a regional or national data management team. Learn about what data management systems (ServCat) and tools (mdEditor) are available to you and read the guidance. Apply them to your data.
+The first step to any change, and arguably the easiest, is to **change yourself**. For data management, that would mean becoming familiar with laws and policies related to data management. Participate on a regional or national data management team. Learn about what data management systems (ServCat) and tools (mdEditor) are available to you and read the guidance. Apply them to your data.
 
 Having participated for the last year on our regional Data Stewardship Team, I have learned a lot about data management that I now apply to my work and share with others.
 
@@ -244,7 +275,7 @@ Include leaders in data management groups and advertise successes.
 ]
 
 .pull-right[
-![]()
+![:scale 100%](images/dst_meeting.jpg)
 ]
 
 ???
@@ -260,9 +291,9 @@ Include leaders in data management groups and advertise successes.
 
 .pull-left[
 .large[
-Share data management expectations with staff
+Clear expectations for staff
 
-Share successes
+Share success stories
 
 Demonstrate the utility of our systems
 ]
@@ -273,6 +304,7 @@ Demonstrate the utility of our systems
 ]
 
 ???
+Clearly communicate expections
 Share data management expectations with staff
  - True for all levels. Field staff share with seasonals and volunteers, supervisors share with their employees, and senior leader share with their programs.
 
@@ -305,16 +337,17 @@ Asking staff to meet a standard requires a measure of whether that standard has 
 ---
 # Summary
 
+.large[
 - Data management is an **adaptive challenge**
 
 - **Everybody is accountable** for data management
 
-- **Leadership engagement is critical** for developing accountability
+- **Leadership engagement is critical** for instituting accountability
 
-- Effective and regular communication **at all levels** is important
+- Effective and regular **communication at all levels** is important
 
-- **Understand your current state** of data management. Think about **how you will assess performance and success** of your strategies.
-
+- **Understand the current state** of data management. Think about **how you will assess performance and success** of your strategies.
+]
 
 ???
 Data management = **adaptive challenge**, therefore there is no easy technical solution from an outside expert. It will require changes by those experiencing the challenge.

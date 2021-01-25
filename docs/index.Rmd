@@ -45,7 +45,7 @@ style_mono_light(code_font_family = "Fira Code",
 )
 ```
 
-class: hide-logo, center, middle, inverse
+class: hide-logo, center, middle
 # Holding ourselves accountable for data management: actions in Alaska
 
 .pull-left[
@@ -64,10 +64,10 @@ Science Applications
 Fisheries and Ecological Services
 ]
 
-<br><br><br>
+<br><br><br><br>
 
-`r icon::fontawesome("github")` usfws.github.io/data-mgt-accountability  
-ServCat Record #129593
+`r icon::fontawesome("github")` [usfws.github.io/data-mgt-accountability](https://github.com/USFWS/data-mgt-accountability)  
+![:scale 2%](images/servcat_logo.png)[ record #129593](https://ecos.fws.gov/ServCat/Reference/Profile/129593)
 
 
 ???
@@ -144,15 +144,6 @@ So how does this apply to data management?
 
 
 ---
-background-image: url("images/technical_difficulties.jpg")
-background-size: cover
-
-???
-Well, in short, the technical difficulties that we face with data management can't be solved by a technical experts alone.
-
-
-
----
 .pull-left[
 ## Everybody* plays a role in data management
   
@@ -174,9 +165,10 @@ Well, in short, the technical difficulties that we face with data management can
 
 ???
 
-Instead, everybody will have to play a role in solving our adaptive challenge.
+- Tackling data management problems will require a group effort. Everybody will have to play a role in solving our adaptive challenge.
 
 - Solving poor data management is not just a "biologist problem". FWS employees across all programs and grade-levels have roles
+
 - Success requires implementing accountability across roles and organizational levels
 
 -"Accountability breeds response-ability" (Stephen R. Covey)
@@ -184,24 +176,15 @@ Instead, everybody will have to play a role in solving our adaptive challenge.
 
 
 ---
-background-image: url("images/not_my_department.jpg")
-background-size: contain
+class: middle, center, inverse
+# Lessons from Alaska: 
+## Six actions to increase accountability
 
 ???
 Ok, many of you may be saying "That's great. We know that. I'm not a senior leader or even a supervisor, so how can I improve accountability!".
 
-Nationally, we are starting to lay the groundwork for accountability by explicitly defining data management roles and responsibilities in the new data management policy. 
+Nationally, we are starting to lay the groundwork for accountability by explicitly defining data management roles and responsibilities in the new data management policy.
 
-There is increasing talk of adding a data management element to performance appraisal plans. But immediate question then is "How does a manager know if their employees are doing what they are accountable for?"
-
-
-
----
-class: middle, center, inverse
-# Lessons from Alaska: 
-## Five actions to increase accountability
-
-???
 We don't have all the answers, but I'll share some of the approaches from Alaska to consider that seem to be moving us in the right direction.
 
 
@@ -248,7 +231,7 @@ Leverage for change when you can
 ]
 
 ???
-#2 Adopt data management workflows.
+#3 Adopt data management workflows.
 
 Incorporate data management into **all** project and funding workflows  
 
@@ -262,7 +245,7 @@ Incorporate data management into **all** project and funding workflows
 
 
 ---
-# 2. Engage leadership
+# 4. Engage leadership
 
 .pull-left[
 .large[
@@ -287,7 +270,7 @@ Include leaders in data management groups and advertise successes.
 
 
 ---
-# 3. Effectively communicate
+# 5. Effectively communicate
 
 .pull-left[
 .large[
@@ -311,7 +294,7 @@ Share data management expectations with staff
 
 
 ---
-# 4. Measure success
+# 6. Measure success
 
 .pull-left[
 .large[
@@ -338,15 +321,17 @@ Asking staff to meet a standard requires a measure of whether that standard has 
 # Summary
 
 .large[
-- Data management is an **adaptive challenge**
+1. Data management is an **adaptive challenge**.
 
-- **Everybody is accountable** for data management
+2. **Everybody is accountable** for data management.
 
-- **Leadership engagement is critical** for instituting accountability
+3. **Leadership engagement is critical** for instituting accountability.
 
-- Effective and regular **communication at all levels** is important
+4. Effective and regular **communication at all levels** is important.
 
-- **Understand the current state** of data management. Think about **how you will assess performance and success** of your strategies.
+5. **Understand the current state** of your data management. 
+
+6. Consider **how you will assess performance and success** of your strategies.
 ]
 
 ???

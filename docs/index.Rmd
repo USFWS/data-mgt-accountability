@@ -69,7 +69,7 @@ Fisheries and Ecological Services
 <br><br>
 
 `r icon::fontawesome("github")` [usfws.github.io/data-mgt-accountability](https://github.com/USFWS/data-mgt-accountability)  
-![:scale 2%](images/servcat_logo.png) [Record #129593](https://ecos.fws.gov/ServCat/Reference/Profile/129593)
+![:scale 2%](images/servcat_logo.png) [ecos.fws.gov/ServCat/Reference/Profile/129593](https://ecos.fws.gov/ServCat/Reference/Profile/129593)
 
 
 ???
@@ -261,7 +261,7 @@ Thirdly, seek out senior leaders that are advocates of data management. They're 
 
 Don't be shy about presenting some "non-invasive" actions for leaders to act upon. Propose small changes that together  message the importance of data management. In the Refuge program in Alaska, we met with Refuge supervisors and provided them with a list of proposed actions, most of which they are adopting. This also resulted in increased engagement from the Deputy Chief and a future memo to Refuge staff regarding the importance of data management and clarifying expectations.
 
-Finally, take opportunities to include leaders in data management groups. Their input is extremely value. This photo shows our Regional Director in Alaska providing opening remarks during a face-to-face meeting of the Data Stewardship Team. Our team now has a Regional Directorate Team representative.
+Finally, take opportunities to include leaders in data management groups. Their input is extremely value. This photo shows our Regional Director in Alaska providing opening remarks during a face-to-face meeting of the Data Stewardship Team. Our team now has a Regional Directorate Team representative to serve as a liaison.
 
 
 ---
